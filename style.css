@@ -3,7 +3,7 @@ body{
 }
 
 main{
-    padding: 0  5rem;
+    padding: 0 5rem;
     background-color: #1F2937;
     margin: 4rem;
     height: 43rem;
@@ -13,7 +13,7 @@ main{
 }
 
 h1{
-    padding-top: 6git rem;
+    padding-top: 6rem;
     font-family: "Karla", sans-serif;
     font-size: 45px;
     font-weight: 800;
