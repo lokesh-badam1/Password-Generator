@@ -5,9 +5,9 @@ body {
 main {
     padding: 0 5rem;
     background-color: #1F2937;
-    margin: 4rem;
+    margin: 5vw auto;
     height: 43rem;
-    width: 80vw;
+    width: 90vw;
     color: white;
     box-sizing: border-box;
 }
